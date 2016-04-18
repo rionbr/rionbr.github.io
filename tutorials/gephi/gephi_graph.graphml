@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="connector_guy" attr.type="int" for="node" id="d5" />
+  <key attr.name="bs" attr.type="double" for="node" id="d4" />
+  <key attr.name="label" attr.type="string" for="node" id="d3" />
+  <key attr.name="cs" attr.type="double" for="node" id="d2" />
+  <key attr.name="club" attr.type="string" for="node" id="d1" />
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="undirected">
+    <data key="d0">Zachary's Karate Club</data>
+    <node id="0">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.15</data>
+      <data key="d3">node 0</data>
+      <data key="d4">0.437635281385</data>
+    </node>
+    <node id="1">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.333333333333</data>
+      <data key="d3">node 1</data>
+      <data key="d4">0.0539366883117</data>
+    </node>
+    <node id="2">
+      <data key="d1">Mr. Hi</data>
+      <data key="d5">1</data>
+      <data key="d3">node 2</data>
+      <data key="d2">0.244444444444</data>
+      <data key="d4">0.143656806157</data>
+    </node>
+    <node id="3">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.666666666667</data>
+      <data key="d3">node 3</data>
+      <data key="d4">0.0119092712843</data>
+    </node>
+    <node id="4">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.666666666667</data>
+      <data key="d3">node 4</data>
+      <data key="d4">0.000631313131313</data>
+    </node>
+    <node id="5">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.5</data>
+      <data key="d3">node 5</data>
+      <data key="d4">0.0299873737374</data>
+    </node>
+    <node id="6">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.5</data>
+      <data key="d3">node 6</data>
+      <data key="d4">0.0299873737374</data>
+    </node>
+    <node id="7">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 7</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="8">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.5</data>
+      <data key="d3">node 8</data>
+      <data key="d4">0.0559268278018</data>
+    </node>
+    <node id="9">
+      <data key="d1">Officer</data>
+      <data key="d2">0.0</data>
+      <data key="d3">node 9</data>
+      <data key="d4">0.000847763347763</data>
+    </node>
+    <node id="10">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.666666666667</data>
+      <data key="d3">node 10</data>
+      <data key="d4">0.000631313131313</data>
+    </node>
+    <node id="11">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.0</data>
+      <data key="d3">node 11</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="12">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 12</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="13">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.6</data>
+      <data key="d3">node 13</data>
+      <data key="d4">0.0458633958634</data>
+    </node>
+    <node id="14">
+      <data key="d1">Officer</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 14</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="15">
+      <data key="d1">Officer</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 15</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="16">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 16</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="17">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 17</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="18">
+      <data key="d1">Officer</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 18</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="19">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">0.333333333333</data>
+      <data key="d3">node 19</data>
+      <data key="d4">0.0324750481</data>
+    </node>
+    <node id="20">
+      <data key="d1">Officer</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 20</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="21">
+      <data key="d1">Mr. Hi</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 21</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="22">
+      <data key="d1">Officer</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 22</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="23">
+      <data key="d1">Officer</data>
+      <data key="d2">0.4</data>
+      <data key="d3">node 23</data>
+      <data key="d4">0.0176136363636</data>
+    </node>
+    <node id="24">
+      <data key="d1">Officer</data>
+      <data key="d2">0.333333333333</data>
+      <data key="d3">node 24</data>
+      <data key="d4">0.0022095959596</data>
+    </node>
+    <node id="25">
+      <data key="d1">Officer</data>
+      <data key="d2">0.333333333333</data>
+      <data key="d3">node 25</data>
+      <data key="d4">0.00384048821549</data>
+    </node>
+    <node id="26">
+      <data key="d1">Officer</data>
+      <data key="d2">1.0</data>
+      <data key="d3">node 26</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="27">
+      <data key="d1">Officer</data>
+      <data key="d2">0.166666666667</data>
+      <data key="d3">node 27</data>
+      <data key="d4">0.0223334535835</data>
+    </node>
+    <node id="28">
+      <data key="d1">Officer</data>
+      <data key="d2">0.333333333333</data>
+      <data key="d3">node 28</data>
+      <data key="d4">0.00179473304473</data>
+    </node>
+    <node id="29">
+      <data key="d1">Officer</data>
+      <data key="d2">0.666666666667</data>
+      <data key="d3">node 29</data>
+      <data key="d4">0.00292207792208</data>
+    </node>
+    <node id="30">
+      <data key="d1">Officer</data>
+      <data key="d2">0.5</data>
+      <data key="d3">node 30</data>
+      <data key="d4">0.014411976912</data>
+    </node>
+    <node id="31">
+      <data key="d1">Officer</data>
+      <data key="d2">0.2</data>
+      <data key="d3">node 31</data>
+      <data key="d4">0.138275613276</data>
+    </node>
+    <node id="32">
+      <data key="d1">Officer</data>
+      <data key="d2">0.19696969697</data>
+      <data key="d3">node 32</data>
+      <data key="d4">0.145247113997</data>
+    </node>
+    <node id="33">
+      <data key="d1">Officer</data>
+      <data key="d2">0.110294117647</data>
+      <data key="d3">node 33</data>
+      <data key="d4">0.30407497595</data>
+    </node>
+    <edge source="0" target="1" />
+    <edge source="0" target="2" />
+    <edge source="0" target="3" />
+    <edge source="0" target="4" />
+    <edge source="0" target="5" />
+    <edge source="0" target="6" />
+    <edge source="0" target="7" />
+    <edge source="0" target="8" />
+    <edge source="0" target="10" />
+    <edge source="0" target="11" />
+    <edge source="0" target="12" />
+    <edge source="0" target="13" />
+    <edge source="0" target="17" />
+    <edge source="0" target="19" />
+    <edge source="0" target="21" />
+    <edge source="0" target="31" />
+    <edge source="1" target="2" />
+    <edge source="1" target="3" />
+    <edge source="1" target="7" />
+    <edge source="1" target="13" />
+    <edge source="1" target="17" />
+    <edge source="1" target="19" />
+    <edge source="1" target="21" />
+    <edge source="1" target="30" />
+    <edge source="2" target="3" />
+    <edge source="2" target="32" />
+    <edge source="2" target="7" />
+    <edge source="2" target="8" />
+    <edge source="2" target="9" />
+    <edge source="2" target="13" />
+    <edge source="2" target="27" />
+    <edge source="2" target="28" />
+    <edge source="3" target="7" />
+    <edge source="3" target="12" />
+    <edge source="3" target="13" />
+    <edge source="4" target="10" />
+    <edge source="4" target="6" />
+    <edge source="5" target="16" />
+    <edge source="5" target="10" />
+    <edge source="5" target="6" />
+    <edge source="6" target="16" />
+    <edge source="8" target="32" />
+    <edge source="8" target="30" />
+    <edge source="8" target="33" />
+    <edge source="9" target="33" />
+    <edge source="13" target="33" />
+    <edge source="14" target="32" />
+    <edge source="14" target="33" />
+    <edge source="15" target="32" />
+    <edge source="15" target="33" />
+    <edge source="18" target="32" />
+    <edge source="18" target="33" />
+    <edge source="19" target="33" />
+    <edge source="20" target="32" />
+    <edge source="20" target="33" />
+    <edge source="22" target="32" />
+    <edge source="22" target="33" />
+    <edge source="23" target="32" />
+    <edge source="23" target="25" />
+    <edge source="23" target="27" />
+    <edge source="23" target="29" />
+    <edge source="23" target="33" />
+    <edge source="24" target="25" />
+    <edge source="24" target="27" />
+    <edge source="24" target="31" />
+    <edge source="25" target="31" />
+    <edge source="26" target="33" />
+    <edge source="26" target="29" />
+    <edge source="27" target="33" />
+    <edge source="28" target="33" />
+    <edge source="28" target="31" />
+    <edge source="29" target="32" />
+    <edge source="29" target="33" />
+    <edge source="30" target="33" />
+    <edge source="30" target="32" />
+    <edge source="31" target="33" />
+    <edge source="31" target="32" />
+    <edge source="32" target="33" />
+  </graph>
+</graphml>
