@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <title>Redirecting to github CV</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
+</head>
+<body class="bg-dark text-light">
+
+<div class="container text-center py-5 my-5">
+	<h1>Redirecting to
+		<a class="" href="https://rionbr.github.io/cv/">rionbr.github.io/cv/</a>
+		in <span id="counter">5</span> seconds.</h1>
+</div>
+
+<script>
+	setInterval(function() {
+		var div = document.querySelector("#counter");
+		var count = div.textContent * 1 - 1;
+		div.textContent = count;
+		if (count <= 0) {
+			window.location.replace("https://rionbr.github.io/cv/");
+		}
+	}, 1000);
+</script>
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-71404006-2', 'auto');
+	ga('send', 'pageview');
+</script>
+</body>
+</html>
